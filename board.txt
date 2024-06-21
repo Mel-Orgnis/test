@@ -10,4 +10,8 @@ rule test를 위한 수정
 
 branch apply?last last
 
+<<<<<<< HEAD
 la la last
+=======
+gpt help me
+>>>>>>> origin/jiiiiiiiiin
